@@ -24,7 +24,7 @@ class Program
             }
             else if (input == "2")
             {
-                RemoveStudent();
+                RemoveStudents();
             }
             else if (input == "3")
             {
